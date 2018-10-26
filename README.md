@@ -1,3 +1,3 @@
-BloodSugarHomework \n
-Spencer Grace \n
-cosc 2030
+* BloodSugarHomework 
+* Spencer Grace 
+* cosc 2030
